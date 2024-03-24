@@ -1,3 +1,5 @@
+
+
 body{
     background-color: #c0c0c0;
     position: relative;
@@ -5,8 +7,21 @@ body{
     left: 5px;
     float: left;
     padding: 5px;
+    font-style: italic;
+    text-decoration: underline;
+    line-height: 1.4em;
+ 
 }
-
+input {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+    font-size: 16px;
+}
 
 
 
@@ -68,4 +83,10 @@ div {
     height: 80px;
     background-color: #8000ff;
     }
- 
+ #Box8 {
+    width: 150px;
+    margin: 20px;
+    text-align: center;
+    height: 305px;
+    background: #f10989;
+    }
