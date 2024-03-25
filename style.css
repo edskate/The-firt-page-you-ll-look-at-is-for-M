@@ -157,7 +157,10 @@ label {
   margin-bottom: 10px;
 }
 h2{
-    color: red;
+    color: #00ffff;
+    font-size: 20px;
+    text-shadow: -1px 1px 1px #000;
+    text-align: left;
 }
 li{
     color: #ffffff;
